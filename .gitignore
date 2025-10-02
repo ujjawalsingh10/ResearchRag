@@ -1,0 +1,6 @@
+venv/
+logs/
+Research_Chat.egg-info/
+data/
+.env
+
